@@ -1,0 +1,9 @@
+{
+  "projectName": "tamagotchi",
+  "network": "localnet",
+  "packageId": "0x8c093e55e5d721863a6d33806391e2bbee507eb886f037a754f90a450cda5d7e",
+  "worldId": "0x6c2207d37af6208e3ec0d963e092f39740ea50b24e74f7cc938e2539794018dd",
+  "upgradeCap": "0x32db5664a893ca11df674e836015553f3e8c57dba3e102edccb7a7a507863db0",
+  "adminCap": "0x2b2461a75265340789c0b5afc6144142b64fc00330614a5c7257eec6cfd29e1c",
+  "version": 1
+}
